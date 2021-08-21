@@ -1,2 +1,4 @@
 string 1 of the text
 second string
+third one
+some more content
